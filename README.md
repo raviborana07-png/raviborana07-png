@@ -1,3 +1,9 @@
+## 👋 About Me
+
+🎓 I'm a Computer Science(cyber security) 2nd year student .  
+💻 I'm passionate about Software Development, Python, and C++.  
+🧠 Currently improving my problem-solving skills through DSA.    
+🚀 My goal is to become a skilled Software Engineer and Cyber Security professional.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/borana_ravi07) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/in/ravi-kumar-7825b437a)  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rk6807831@gmail.com) 
